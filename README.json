@@ -1,0 +1,768 @@
+{
+  "items": [
+    {
+      "description": "web开发框架",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cowboy",
+          "description": "一个小巧，高效的HTTP服务器.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-07-28T08:45:39Z",
+            "owner": "ninenines",
+            "repo": "cowboy",
+            "stars": 7523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MochiWeb",
+          "description": "一个用来构建Web应用的轻便,高效的HTTP应用框架的Erlang库.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-08-10T23:56:52Z",
+            "owner": "mochi",
+            "repo": "mochiweb",
+            "stars": 1890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChicagoBoss",
+          "description": "一个从Rails获取灵感，而写的框架.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2022-01-10T14:03:59Z",
+            "owner": "ChicagoBoss",
+            "repo": "ChicagoBoss",
+            "stars": 1849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "N2O",
+          "description": "WebSocket 应用服务器.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-06-04T10:30:12Z",
+            "owner": "synrc",
+            "repo": "n2o",
+            "stars": 1342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yaws",
+          "description": "一个高效处理动态页面的web服务器.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-05-29T09:33:07Z",
+            "owner": "erlyaws",
+            "repo": "yaws",
+            "stars": 1311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nitrogen",
+          "description": "一个完全用Elang编写的web应用框架(包括前端，后端).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-07-26T15:08:39Z",
+            "owner": "nitrogen",
+            "repo": "nitrogen",
+            "stars": 983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotonic",
+          "description": "高效,实时的web框架并且包括内容管理系统.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-08-13T13:12:40Z",
+            "owner": "zotonic",
+            "repo": "zotonic",
+            "stars": 846
+          }
+        }
+      ],
+      "title": "web框架"
+    },
+    {
+      "description": "HTTP相关的库",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hackney",
+          "description": "一个小巧的Erlang HTTP客户端.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-08-12T05:53:49Z",
+            "owner": "benoitc",
+            "repo": "hackney",
+            "stars": 1416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gun",
+          "description": "支持 HTTP/1.1, SPDY 和Websocket的HTTP客户端.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-07-28T08:40:44Z",
+            "owner": "ninenines",
+            "repo": "gun",
+            "stars": 947
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ibrowse",
+          "description": "Erlang HTTP 客户端.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-05-01T04:14:21Z",
+            "owner": "cmullaparthi",
+            "repo": "ibrowse",
+            "stars": 518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bullet",
+          "description": "一个cowboy用到的小巧，高效，稳定的类似WebSockets的协议库.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Erlang",
+            "last_commit": "2018-12-11T13:40:55Z",
+            "owner": "ninenines",
+            "repo": "bullet",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lhttpc",
+          "description": "一个支持 lightweight HTTP/1.1 的客户端.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2022-03-29T11:22:44Z",
+            "owner": "esl",
+            "repo": "lhttpc",
+            "stars": 128
+          }
+        }
+      ],
+      "title": "HTTP"
+    },
+    {
+      "description": "测试相关的库.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PropEr",
+          "description": "基于Property based testing的Erlang测试工具.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-06-24T06:05:22Z",
+            "owner": "proper-testing",
+            "repo": "proper",
+            "stars": 917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typhoon",
+          "description": "分布式系统的压力测试可视化工具",
+          "children": []
+        }
+      ],
+      "title": "测试"
+    },
+    {
+      "description": "日志相关的库.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "logplex",
+          "description": "Heroku log router.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Erlang",
+            "last_commit": "2022-02-14T10:25:12Z",
+            "owner": "heroku",
+            "repo": "logplex",
+            "stars": 981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lager",
+          "description": "一个Erlang/OTP日志框架.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Erlang",
+            "last_commit": "2017-04-07T13:50:10Z",
+            "owner": "basho",
+            "repo": "lager",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "日志"
+    },
+    {
+      "description": "性能监控",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "folsom",
+          "description": "一个性能度量系统.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2018-11-07T02:47:54Z",
+            "owner": "boundary",
+            "repo": "folsom",
+            "stars": 583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exometer",
+          "description": "一款监控指标的度量库，整合了folsom.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2019-06-14T09:40:23Z",
+            "owner": "Feuerlabs",
+            "repo": "exometer",
+            "stars": 528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eper",
+          "description": "一个性能相关的工具集.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2018-07-06T13:31:54Z",
+            "owner": "massemanet",
+            "repo": "eper",
+            "stars": 440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "entop",
+          "description": "一个像top命令一样的Erlang节点监控工具.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2019-05-29T22:12:23Z",
+            "owner": "mazenharake",
+            "repo": "entop",
+            "stars": 267
+          }
+        }
+      ],
+      "title": "监控"
+    },
+    {
+      "description": "项目构建工具.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rebar3",
+          "description": "可以管理来自Hex.pm的包. 更多查看 rebar3.org",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-08-10T13:38:11Z",
+            "owner": "erlang",
+            "repo": "rebar3",
+            "stars": 1816
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rebar",
+          "description": "Erlang的构建工具,使用它可以方便的编译、测试erlang程序、内联驱动和打包Erlang发行版本.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Erlang",
+            "last_commit": "2018-02-01T09:34:05Z",
+            "owner": "rebar",
+            "repo": "rebar",
+            "stars": 930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "erlang.mk",
+          "description": "erlang的makefile.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-06-25T13:21:55Z",
+            "owner": "ninenines",
+            "repo": "erlang.mk",
+            "stars": 588
+          }
+        }
+      ],
+      "title": "构建工具"
+    },
+    {
+      "description": "网络相关的库和工具",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ranch",
+          "description": "cowboy用到的TCP网络库.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-07-28T08:16:21Z",
+            "owner": "ninenines",
+            "repo": "ranch",
+            "stars": 1242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gen_rpc",
+          "description": "一个Erlang-VM的RPC扩展库.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2025-11-05T06:26:50Z",
+            "owner": "priestjim",
+            "repo": "gen_rpc",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "barrel_tcp",
+          "description": "低延迟的TCP网络库.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2015-07-28T06:09:49Z",
+            "owner": "benoitc-attic",
+            "repo": "barrel_tcp",
+            "stars": 83
+          }
+        }
+      ],
+      "title": "网络"
+    },
+    {
+      "description": "数据库客户端",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "epgsql",
+          "description": "PostgreSQL的Erlang驱动.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-07-24T14:05:01Z",
+            "owner": "epgsql",
+            "repo": "epgsql",
+            "stars": 445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mysql-otp",
+          "description": "Erlang/OTP的mysql驱动.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2025-06-10T10:02:30Z",
+            "owner": "mysql-otp",
+            "repo": "mysql-otp",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "boss_db",
+          "description": "一个数据库的虚拟层，支持多种数据库.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2024-01-05T12:27:11Z",
+            "owner": "ErlyORM",
+            "repo": "boss_db",
+            "stars": 276
+          }
+        }
+      ],
+      "title": "数据库客户端"
+    },
+    {
+      "description": "Json协议相关的库",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jiffy",
+          "description": "利用NIFs解析JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-01T00:19:34Z",
+            "owner": "davisp",
+            "repo": "jiffy",
+            "stars": 879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsx",
+          "description": "完全用erlang编写的json解析库.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2024-06-26T15:39:01Z",
+            "owner": "talentdeficit",
+            "repo": "jsx",
+            "stars": 699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsonx",
+          "description": "用c语言实现解析json的erlang库.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2016-03-30T08:49:00Z",
+            "owner": "iskra",
+            "repo": "jsonx",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "erljson_bench",
+          "description": "各个json解析库的性能对比.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-07-14T17:47:21Z",
+            "owner": "davisp",
+            "repo": "erljson_bench",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "JSON"
+    },
+    {
+      "description": "各种协议库",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gpb",
+          "description": "对rebar3支持非常好的protobuf库.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-05-27T20:15:53Z",
+            "owner": "tomas-abrahamsson",
+            "repo": "gpb",
+            "stars": 580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "erlang_protobuffs",
+          "description": "riak数据库在用的protobuf库,支持rebar.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Erlang",
+            "last_commit": "2020-07-10T14:00:30Z",
+            "owner": "basho",
+            "repo": "erlang_protobuffs",
+            "stars": 392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "msgpack-erlang",
+          "description": "MessagePack库.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2025-06-11T23:54:01Z",
+            "owner": "msgpack",
+            "repo": "msgpack-erlang",
+            "stars": 219
+          }
+        }
+      ],
+      "title": "协议"
+    },
+    {
+      "description": "消息队列服务器",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "emqtt",
+          "description": "百万级分布式开源物联网MQTT消息服务器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-08-13T21:18:10Z",
+            "owner": "emqx",
+            "repo": "emqx",
+            "stars": 16619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rabbitmq",
+          "description": "支持多种协议AMQP, STOMP, MQTT, AMQP的消息代理服务器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T17:15:40Z",
+            "owner": "rabbitmq",
+            "repo": "rabbitmq-server",
+            "stars": 13781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ejabberd",
+          "description": "著名的XMPP服务器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-08-12T14:10:24Z",
+            "owner": "processone",
+            "repo": "ejabberd",
+            "stars": 6713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vernemq",
+          "description": "基于Erlang/OTP的分布式MQTT消息服务器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-08-09T16:15:43Z",
+            "owner": "vernemq",
+            "repo": "vernemq",
+            "stars": 3620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MongooseIM",
+          "description": "高效的分布式XMPP服务器,ejabberd的优化版本",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-08-13T08:49:58Z",
+            "owner": "esl",
+            "repo": "MongooseIM",
+            "stars": 1748
+          }
+        }
+      ],
+      "title": "消息队列"
+    },
+    {
+      "description": "开发工具",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "intellij-erlang",
+          "description": "intellij插件.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-18T21:01:02Z",
+            "owner": "ignatov",
+            "repo": "intellij-erlang",
+            "stars": 752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "distel",
+          "description": "emacs,erlang IDE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2022-11-11T15:24:36Z",
+            "owner": "massemanet",
+            "repo": "distel",
+            "stars": 324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vimerl",
+          "description": "编写erlang的vim插件.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2015-09-08T08:11:37Z",
+            "owner": "jimenezrick",
+            "repo": "vimerl",
+            "stars": 302
+          }
+        }
+      ],
+      "title": "开发工具"
+    },
+    {
+      "description": "杂项",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "theBeamBook",
+          "description": "A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-04-26T08:42:38Z",
+            "owner": "happi",
+            "repo": "theBeamBook",
+            "stars": 4048
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tsung",
+          "description": "支持HTTP, XMPP, LDAP,等多种协议的压力测试工具.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-03-02T15:37:11Z",
+            "owner": "processone",
+            "repo": "tsung",
+            "stars": 2630
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kerl",
+          "description": "Erlang安装工具，能够轻松切换多个版本.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-06-19T17:26:34Z",
+            "owner": "kerl",
+            "repo": "kerl",
+            "stars": 1662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sync",
+          "description": "一个开发时自动重编译的工具.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2025-06-30T16:25:36Z",
+            "owner": "rustyio",
+            "repo": "sync",
+            "stars": 761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "erlang-history",
+          "description": "在Erlang的shell中加入历史记录.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Erlang",
+            "last_commit": "2018-03-02T07:08:07Z",
+            "owner": "ferd",
+            "repo": "erlang-history",
+            "stars": 495
+          }
+        }
+      ],
+      "title": "杂项"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:57:40.396Z",
+    "original_repository": "hstcscolor/awesome-erlang-cn",
+    "original_repository_sha": "d66fb0a2bc12f89a81246bafb5cebdc312ea3337",
+    "enhanced_repository": "enhansome/enhansome-erlang-cn",
+    "enhanced_repository_description": null,
+    "title": "Awesome Erlang资源大全中文版 with stars"
+  }
+}
