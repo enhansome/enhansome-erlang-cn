@@ -567,10 +567,10 @@
           "repo_info": {
             "archived": false,
             "language": "Erlang",
-            "last_commit": "2026-08-13T21:18:10Z",
+            "last_commit": "2026-08-14T21:08:14Z",
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16619
+            "stars": 16618
           }
         },
         {
@@ -581,10 +581,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T17:15:40Z",
+            "last_commit": "2026-08-14T22:58:56Z",
             "owner": "rabbitmq",
             "repo": "rabbitmq-server",
-            "stars": 13781
+            "stars": 13780
           }
         },
         {
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T23:57:40.396Z",
+    "last_updated": "2026-08-14T23:35:44.435Z",
     "original_repository": "hstcscolor/awesome-erlang-cn",
     "original_repository_sha": "d66fb0a2bc12f89a81246bafb5cebdc312ea3337",
     "enhanced_repository": "enhansome/enhansome-erlang-cn",
