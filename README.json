@@ -141,7 +141,7 @@
             "last_commit": "2026-07-28T08:40:44Z",
             "owner": "ninenines",
             "repo": "gun",
-            "stars": 947
+            "stars": 948
           }
         },
         {
@@ -597,10 +597,10 @@
             "archived": false,
             "id": 7202769,
             "language": "Erlang",
-            "last_commit": "2026-08-19T08:57:26Z",
+            "last_commit": "2026-08-19T21:12:22Z",
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16638
+            "stars": 16641
           }
         },
         {
@@ -612,10 +612,10 @@
             "archived": false,
             "id": 924551,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T11:03:00Z",
+            "last_commit": "2026-08-19T16:16:19Z",
             "owner": "rabbitmq",
             "repo": "rabbitmq-server",
-            "stars": 13790
+            "stars": 13791
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2026-08-17T09:58:02Z",
             "owner": "processone",
             "repo": "ejabberd",
-            "stars": 6715
+            "stars": 6716
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2026-08-18T20:08:38Z",
             "owner": "vernemq",
             "repo": "vernemq",
-            "stars": 3619
+            "stars": 3620
           }
         },
         {
@@ -657,7 +657,7 @@
             "archived": false,
             "id": 2354240,
             "language": "Erlang",
-            "last_commit": "2026-08-19T12:02:44Z",
+            "last_commit": "2026-08-19T13:57:25Z",
             "owner": "esl",
             "repo": "MongooseIM",
             "stars": 1749
@@ -800,7 +800,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:27:51.596Z",
+    "last_updated": "2026-08-19T23:35:09.754Z",
     "original_repository": "hstcscolor/awesome-erlang-cn",
     "original_repository_id": 71371328,
     "original_repository_sha": "d66fb0a2bc12f89a81246bafb5cebdc312ea3337",
