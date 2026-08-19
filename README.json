@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1460612,
             "language": "Erlang",
             "last_commit": "2026-07-28T08:45:39Z",
             "owner": "ninenines",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 680799,
             "language": "Erlang",
             "last_commit": "2026-08-16T16:16:50Z",
             "owner": "mochi",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 325927,
             "language": "Erlang",
             "last_commit": "2022-01-10T14:03:59Z",
             "owner": "ChicagoBoss",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9104262,
             "language": "Erlang",
             "last_commit": "2026-06-04T10:30:12Z",
             "owner": "synrc",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133620,
             "language": "Erlang",
             "last_commit": "2026-05-29T09:33:07Z",
             "owner": "erlyaws",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68626,
             "language": "Erlang",
             "last_commit": "2026-07-26T15:08:39Z",
             "owner": "nitrogen",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1847706,
             "language": "Erlang",
             "last_commit": "2026-08-17T12:21:43Z",
             "owner": "zotonic",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4864481,
             "language": "Erlang",
             "last_commit": "2026-08-12T05:53:49Z",
             "owner": "benoitc",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12277346,
             "language": "Erlang",
             "last_commit": "2026-07-28T08:40:44Z",
             "owner": "ninenines",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231268,
             "language": "Erlang",
             "last_commit": "2026-05-01T04:14:21Z",
             "owner": "cmullaparthi",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 2470304,
             "language": "Erlang",
             "last_commit": "2018-12-11T13:40:55Z",
             "owner": "ninenines",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1410878,
             "language": "Erlang",
             "last_commit": "2022-03-29T11:22:44Z",
             "owner": "esl",
@@ -190,18 +202,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 697866,
             "language": "Erlang",
             "last_commit": "2026-06-24T06:05:22Z",
             "owner": "proper-testing",
             "repo": "proper",
             "stars": 918
           }
-        },
-        {
-          "node_type": "item",
-          "title": "typhoon",
-          "description": "分布式系统的压力测试可视化工具",
-          "children": []
         }
       ],
       "title": "测试"
@@ -216,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1165646,
             "language": "Erlang",
             "last_commit": "2022-02-14T10:25:12Z",
             "owner": "heroku",
@@ -230,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 73742733,
             "language": "Erlang",
             "last_commit": "2017-04-07T13:50:10Z",
             "owner": "basho",
@@ -250,6 +259,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1493089,
             "language": "Erlang",
             "last_commit": "2018-11-07T02:47:54Z",
             "owner": "boundary",
@@ -264,6 +274,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11879291,
             "language": "Erlang",
             "last_commit": "2019-06-14T09:40:23Z",
             "owner": "Feuerlabs",
@@ -278,6 +289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 607990,
             "language": "Erlang",
             "last_commit": "2018-07-06T13:31:54Z",
             "owner": "massemanet",
@@ -292,6 +304,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 840788,
             "language": "Erlang",
             "last_commit": "2019-05-29T22:12:23Z",
             "owner": "mazenharake",
@@ -312,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26610130,
             "language": "Erlang",
             "last_commit": "2026-08-17T17:59:00Z",
             "owner": "erlang",
@@ -326,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 6393199,
             "language": "Erlang",
             "last_commit": "2018-02-01T09:34:05Z",
             "owner": "rebar",
@@ -340,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9777075,
             "language": "Makefile",
             "last_commit": "2026-06-25T13:21:55Z",
             "owner": "ninenines",
@@ -360,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3944995,
             "language": "Erlang",
             "last_commit": "2026-07-28T08:16:21Z",
             "owner": "ninenines",
@@ -374,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36317559,
             "language": "Erlang",
             "last_commit": "2025-11-05T06:26:50Z",
             "owner": "priestjim",
@@ -388,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11266342,
             "language": "Erlang",
             "last_commit": "2015-07-28T06:09:49Z",
             "owner": "benoitc-attic",
@@ -408,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16806661,
             "language": "Erlang",
             "last_commit": "2026-08-16T14:49:02Z",
             "owner": "epgsql",
@@ -422,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25876565,
             "language": "Erlang",
             "last_commit": "2025-06-10T10:02:30Z",
             "owner": "mysql-otp",
@@ -436,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3354440,
             "language": "Erlang",
             "last_commit": "2024-01-05T12:27:11Z",
             "owner": "ErlyORM",
@@ -456,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1564769,
             "language": "C",
             "last_commit": "2026-07-01T00:19:34Z",
             "owner": "davisp",
@@ -470,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 684090,
             "language": "Erlang",
             "last_commit": "2024-06-26T15:39:01Z",
             "owner": "talentdeficit",
@@ -484,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8981819,
             "language": "C",
             "last_commit": "2016-03-30T08:49:00Z",
             "owner": "iskra",
@@ -498,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1569594,
             "language": "C",
             "last_commit": "2015-07-14T17:47:21Z",
             "owner": "davisp",
@@ -518,6 +544,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2049737,
             "language": "Erlang",
             "last_commit": "2026-05-27T20:15:53Z",
             "owner": "tomas-abrahamsson",
@@ -532,6 +559,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 618104,
             "language": "Erlang",
             "last_commit": "2020-07-10T14:00:30Z",
             "owner": "basho",
@@ -546,6 +574,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2272904,
             "language": "Erlang",
             "last_commit": "2025-06-11T23:54:01Z",
             "owner": "msgpack",
@@ -566,11 +595,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7202769,
             "language": "Erlang",
-            "last_commit": "2026-08-18T21:09:30Z",
+            "last_commit": "2026-08-19T08:57:26Z",
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16631
+            "stars": 16638
           }
         },
         {
@@ -580,11 +610,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 924551,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T20:34:41Z",
+            "last_commit": "2026-08-19T11:03:00Z",
             "owner": "rabbitmq",
             "repo": "rabbitmq-server",
-            "stars": 13787
+            "stars": 13790
           }
         },
         {
@@ -594,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 507610,
             "language": "Erlang",
             "last_commit": "2026-08-17T09:58:02Z",
             "owner": "processone",
@@ -608,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36350782,
             "language": "Erlang",
             "last_commit": "2026-08-18T20:08:38Z",
             "owner": "vernemq",
@@ -622,8 +655,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2354240,
             "language": "Erlang",
-            "last_commit": "2026-08-18T15:22:39Z",
+            "last_commit": "2026-08-19T12:02:44Z",
             "owner": "esl",
             "repo": "MongooseIM",
             "stars": 1749
@@ -642,6 +676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5168907,
             "language": "Java",
             "last_commit": "2026-08-17T21:15:41Z",
             "owner": "ignatov",
@@ -656,6 +691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 541209,
             "language": "Emacs Lisp",
             "last_commit": "2022-11-11T15:24:36Z",
             "owner": "massemanet",
@@ -670,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 826414,
             "language": "Erlang",
             "last_commit": "2015-09-08T08:11:37Z",
             "owner": "jimenezrick",
@@ -690,6 +727,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85983888,
             "language": "Erlang",
             "last_commit": "2026-04-26T08:42:38Z",
             "owner": "happi",
@@ -704,6 +742,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 497624,
             "language": "Erlang",
             "last_commit": "2026-03-02T15:37:11Z",
             "owner": "processone",
@@ -718,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2000878,
             "language": "Shell",
             "last_commit": "2025-06-19T17:26:34Z",
             "owner": "kerl",
@@ -732,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 727813,
             "language": "Erlang",
             "last_commit": "2025-06-30T16:25:36Z",
             "owner": "rustyio",
@@ -746,6 +787,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 2819730,
             "language": "Erlang",
             "last_commit": "2018-03-02T07:08:07Z",
             "owner": "ferd",
@@ -758,8 +800,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:34:58.853Z",
+    "last_updated": "2026-08-19T12:27:51.596Z",
     "original_repository": "hstcscolor/awesome-erlang-cn",
+    "original_repository_id": 71371328,
     "original_repository_sha": "d66fb0a2bc12f89a81246bafb5cebdc312ea3337",
     "enhanced_repository": "enhansome/enhansome-erlang-cn",
     "enhanced_repository_description": null,
