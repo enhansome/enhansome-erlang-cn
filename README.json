@@ -102,7 +102,7 @@
             "archived": false,
             "id": 1847706,
             "language": "Erlang",
-            "last_commit": "2026-08-21T13:33:44Z",
+            "last_commit": "2026-08-22T16:03:33Z",
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 846
@@ -597,10 +597,10 @@
             "archived": false,
             "id": 7202769,
             "language": "Erlang",
-            "last_commit": "2026-08-21T21:07:26Z",
+            "last_commit": "2026-08-22T21:06:02Z",
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16646
+            "stars": 16647
           }
         },
         {
@@ -612,7 +612,7 @@
             "archived": false,
             "id": 924551,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T17:10:41Z",
+            "last_commit": "2026-08-22T23:18:07Z",
             "owner": "rabbitmq",
             "repo": "rabbitmq-server",
             "stars": 13800
@@ -645,7 +645,7 @@
             "last_commit": "2026-08-18T20:08:38Z",
             "owner": "vernemq",
             "repo": "vernemq",
-            "stars": 3620
+            "stars": 3621
           }
         },
         {
@@ -800,7 +800,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T23:36:46.217Z",
+    "last_updated": "2026-08-22T23:33:47.323Z",
     "original_repository": "hstcscolor/awesome-erlang-cn",
     "original_repository_id": 71371328,
     "original_repository_sha": "d66fb0a2bc12f89a81246bafb5cebdc312ea3337",

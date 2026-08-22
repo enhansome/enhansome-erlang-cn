@@ -45,7 +45,7 @@
 * [N2O](https://github.com/synrc/n2o) ⭐ 1,342 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket 应用服务器.
 * [yaws](https://github.com/klacke/yaws) ⭐ 1,311 | 🐛 36 | 🌐 Erlang | 📅 2026-05-29 - 一个高效处理动态页面的web服务器.
 * [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 983 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - 一个完全用Elang编写的web应用框架(包括前端，后端).
-* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 846 | 🐛 194 | 🌐 Erlang | 📅 2026-08-21 - 高效,实时的web框架并且包括内容管理系统.
+* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 846 | 🐛 195 | 🌐 Erlang | 📅 2026-08-22 - 高效,实时的web框架并且包括内容管理系统.
 
 ### HTTP
 
@@ -125,10 +125,10 @@
 
 *消息队列服务器*
 
-* [emqtt](https://github.com/emqtt/emqttd) ⭐ 16,646 | 🐛 254 | 🌐 Erlang | 📅 2026-08-21 - 百万级分布式开源物联网MQTT消息服务器
-* [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,800 | 🐛 259 | 🌐 JavaScript | 📅 2026-08-21 - 支持多种协议AMQP, STOMP, MQTT, AMQP的消息代理服务器
+* [emqtt](https://github.com/emqtt/emqttd) ⭐ 16,647 | 🐛 256 | 🌐 Erlang | 📅 2026-08-22 - 百万级分布式开源物联网MQTT消息服务器
+* [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,800 | 🐛 257 | 🌐 JavaScript | 📅 2026-08-22 - 支持多种协议AMQP, STOMP, MQTT, AMQP的消息代理服务器
 * [ejabberd](https://github.com/processone/ejabberd) ⭐ 6,719 | 🐛 223 | 🌐 Erlang | 📅 2026-08-17 - 著名的XMPP服务器
-* [vernemq](https://github.com/erlio/vernemq) ⭐ 3,620 | 🐛 164 | 🌐 Erlang | 📅 2026-08-18 - 基于Erlang/OTP的分布式MQTT消息服务器
+* [vernemq](https://github.com/erlio/vernemq) ⭐ 3,621 | 🐛 164 | 🌐 Erlang | 📅 2026-08-18 - 基于Erlang/OTP的分布式MQTT消息服务器
 * [MongooseIM](https://github.com/esl/MongooseIM) ⭐ 1,750 | 🐛 31 | 🌐 Erlang | 📅 2026-08-21 - 高效的分布式XMPP服务器,ejabberd的优化版本
 
 ## 开发工具
@@ -151,7 +151,7 @@
 
 * [theBeamBook](https://github.com/happi/theBeamBook) ⭐ 4,049 | 🐛 1 | 🌐 Erlang | 📅 2026-04-26 - A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.
 * [tsung](https://github.com/processone/tsung) ⭐ 2,629 | 🐛 130 | 🌐 Erlang | 📅 2026-03-02 - 支持HTTP, XMPP, LDAP,等多种协议的压力测试工具.
-* [kerl](https://github.com/kerl/kerl) ⭐ 1,663 | 🐛 16 | 🌐 Shell | 📅 2025-06-19 - Erlang安装工具，能够轻松切换多个版本.
+* [kerl](https://github.com/kerl/kerl) ⭐ 1,663 | 🐛 18 | 🌐 Shell | 📅 2025-06-19 - Erlang安装工具，能够轻松切换多个版本.
 * [sync](https://github.com/rustyio/sync) ⭐ 761 | 🐛 17 | 🌐 Erlang | 📅 2025-06-30 - 一个开发时自动重编译的工具.
 * [erlang-history](https://github.com/ferd/erlang-history) ⚠️ Archived - 在Erlang的shell中加入历史记录.
 
@@ -165,4 +165,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
