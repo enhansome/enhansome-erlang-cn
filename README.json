@@ -75,7 +75,7 @@
             "last_commit": "2026-05-29T09:33:07Z",
             "owner": "erlyaws",
             "repo": "yaws",
-            "stars": 1311
+            "stars": 1312
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-07-28T08:40:44Z",
             "owner": "ninenines",
             "repo": "gun",
-            "stars": 950
+            "stars": 949
           }
         },
         {
@@ -327,7 +327,7 @@
             "archived": false,
             "id": 26610130,
             "language": "Erlang",
-            "last_commit": "2026-08-17T17:59:00Z",
+            "last_commit": "2026-08-23T18:45:13Z",
             "owner": "erlang",
             "repo": "rebar3",
             "stars": 1818
@@ -447,7 +447,7 @@
             "last_commit": "2025-06-10T10:02:30Z",
             "owner": "mysql-otp",
             "repo": "mysql-otp",
-            "stars": 374
+            "stars": 375
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2026-08-22T21:06:02Z",
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16647
+            "stars": 16648
           }
         },
         {
@@ -615,7 +615,7 @@
             "last_commit": "2026-08-22T23:18:07Z",
             "owner": "rabbitmq",
             "repo": "rabbitmq-server",
-            "stars": 13800
+            "stars": 13799
           }
         },
         {
@@ -681,7 +681,7 @@
             "last_commit": "2026-08-17T21:15:41Z",
             "owner": "ignatov",
             "repo": "intellij-erlang",
-            "stars": 751
+            "stars": 752
           }
         },
         {
@@ -800,7 +800,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:33:47.323Z",
+    "last_updated": "2026-08-23T23:34:49.596Z",
     "original_repository": "hstcscolor/awesome-erlang-cn",
     "original_repository_id": 71371328,
     "original_repository_sha": "d66fb0a2bc12f89a81246bafb5cebdc312ea3337",
