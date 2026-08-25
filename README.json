@@ -12,7 +12,7 @@
             "archived": false,
             "id": 1460612,
             "language": "Erlang",
-            "last_commit": "2026-07-28T08:45:39Z",
+            "last_commit": "2026-08-25T13:15:05Z",
             "owner": "ninenines",
             "repo": "cowboy",
             "stars": 7525
@@ -60,7 +60,7 @@
             "last_commit": "2026-06-04T10:30:12Z",
             "owner": "synrc",
             "repo": "n2o",
-            "stars": 1342
+            "stars": 1341
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 1847706,
             "language": "Erlang",
-            "last_commit": "2026-08-24T15:15:44Z",
+            "last_commit": "2026-08-25T16:33:25Z",
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 846
@@ -549,7 +549,7 @@
             "last_commit": "2026-05-27T20:15:53Z",
             "owner": "tomas-abrahamsson",
             "repo": "gpb",
-            "stars": 580
+            "stars": 581
           }
         },
         {
@@ -597,10 +597,10 @@
             "archived": false,
             "id": 7202769,
             "language": "Erlang",
-            "last_commit": "2026-08-25T05:07:40Z",
+            "last_commit": "2026-08-25T21:08:53Z",
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16651
+            "stars": 16654
           }
         },
         {
@@ -612,10 +612,10 @@
             "archived": false,
             "id": 924551,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T05:39:34Z",
+            "last_commit": "2026-08-25T18:51:25Z",
             "owner": "rabbitmq",
             "repo": "rabbitmq-server",
-            "stars": 13800
+            "stars": 13803
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2026-08-18T20:08:38Z",
             "owner": "vernemq",
             "repo": "vernemq",
-            "stars": 3622
+            "stars": 3623
           }
         },
         {
@@ -657,7 +657,7 @@
             "archived": false,
             "id": 2354240,
             "language": "Erlang",
-            "last_commit": "2026-08-24T14:03:03Z",
+            "last_commit": "2026-08-25T14:18:22Z",
             "owner": "esl",
             "repo": "MongooseIM",
             "stars": 1750
@@ -762,7 +762,7 @@
             "last_commit": "2025-06-19T17:26:34Z",
             "owner": "kerl",
             "repo": "kerl",
-            "stars": 1663
+            "stars": 1664
           }
         },
         {
@@ -800,7 +800,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:25:29.224Z",
+    "last_updated": "2026-08-25T23:36:34.862Z",
     "original_repository": "hstcscolor/awesome-erlang-cn",
     "original_repository_id": 71371328,
     "original_repository_sha": "d66fb0a2bc12f89a81246bafb5cebdc312ea3337",
