@@ -597,10 +597,10 @@
             "archived": false,
             "id": 7202769,
             "language": "Erlang",
-            "last_commit": "2026-08-27T03:36:46Z",
+            "last_commit": "2026-08-27T11:24:15Z",
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16661
+            "stars": 16662
           }
         },
         {
@@ -612,7 +612,7 @@
             "archived": false,
             "id": 924551,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T17:23:46Z",
+            "last_commit": "2026-08-27T09:12:54Z",
             "owner": "rabbitmq",
             "repo": "rabbitmq-server",
             "stars": 13809
@@ -642,7 +642,7 @@
             "archived": false,
             "id": 36350782,
             "language": "Erlang",
-            "last_commit": "2026-08-18T20:08:38Z",
+            "last_commit": "2026-08-27T10:37:15Z",
             "owner": "vernemq",
             "repo": "vernemq",
             "stars": 3624
@@ -657,7 +657,7 @@
             "archived": false,
             "id": 2354240,
             "language": "Erlang",
-            "last_commit": "2026-08-26T14:06:58Z",
+            "last_commit": "2026-08-27T08:16:45Z",
             "owner": "esl",
             "repo": "MongooseIM",
             "stars": 1751
@@ -800,9 +800,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:30:44.661Z",
-    "original_repository": "hstcscolor/awesome-erlang-cn",
-    "original_repository_id": 71371328,
+    "last_updated": "2026-08-27T11:35:35.177Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 71371328,
+      "language": null,
+      "last_commit": "2018-09-25T10:36:41Z",
+      "owner": "hstcscolor",
+      "repo": "awesome-erlang-cn",
+      "stars": 168
+    },
     "original_repository_sha": "d66fb0a2bc12f89a81246bafb5cebdc312ea3337",
     "enhanced_repository": "enhansome/enhansome-erlang-cn",
     "enhanced_repository_description": null,
