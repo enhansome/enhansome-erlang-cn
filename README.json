@@ -16,7 +16,8 @@
             "owner": "ninenines",
             "repo": "cowboy",
             "stars": 7525
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mochi",
             "repo": "mochiweb",
             "stars": 1890
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "ChicagoBoss",
             "repo": "ChicagoBoss",
             "stars": 1849
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "synrc",
             "repo": "n2o",
             "stars": 1341
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "erlyaws",
             "repo": "yaws",
             "stars": 1312
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "nitrogen",
             "repo": "nitrogen",
             "stars": 983
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 846
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         }
       ],
       "title": "web框架"
@@ -127,7 +134,8 @@
             "owner": "benoitc",
             "repo": "hackney",
             "stars": 1417
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "ninenines",
             "repo": "gun",
             "stars": 949
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "cmullaparthi",
             "repo": "ibrowse",
             "stars": 518
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "ninenines",
             "repo": "bullet",
             "stars": 303
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "esl",
             "repo": "lhttpc",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         }
       ],
       "title": "HTTP"
@@ -208,7 +220,8 @@
             "owner": "proper-testing",
             "repo": "proper",
             "stars": 918
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         }
       ],
       "title": "测试"
@@ -229,7 +242,8 @@
             "owner": "heroku",
             "repo": "logplex",
             "stars": 981
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "basho",
             "repo": "lager",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         }
       ],
       "title": "日志"
@@ -265,7 +280,8 @@
             "owner": "boundary",
             "repo": "folsom",
             "stars": 583
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -280,7 +296,8 @@
             "owner": "Feuerlabs",
             "repo": "exometer",
             "stars": 528
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -295,7 +312,8 @@
             "owner": "massemanet",
             "repo": "eper",
             "stars": 440
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -310,7 +328,8 @@
             "owner": "mazenharake",
             "repo": "entop",
             "stars": 267
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         }
       ],
       "title": "监控"
@@ -331,7 +350,8 @@
             "owner": "erlang",
             "repo": "rebar3",
             "stars": 1818
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -346,7 +366,8 @@
             "owner": "rebar",
             "repo": "rebar",
             "stars": 930
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -361,7 +382,8 @@
             "owner": "ninenines",
             "repo": "erlang.mk",
             "stars": 588
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         }
       ],
       "title": "构建工具"
@@ -382,7 +404,8 @@
             "owner": "ninenines",
             "repo": "ranch",
             "stars": 1243
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -397,7 +420,8 @@
             "owner": "priestjim",
             "repo": "gen_rpc",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -412,7 +436,8 @@
             "owner": "benoitc-attic",
             "repo": "barrel_tcp",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         }
       ],
       "title": "网络"
@@ -433,7 +458,8 @@
             "owner": "epgsql",
             "repo": "epgsql",
             "stars": 446
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -448,7 +474,8 @@
             "owner": "mysql-otp",
             "repo": "mysql-otp",
             "stars": 375
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -463,7 +490,8 @@
             "owner": "ErlyORM",
             "repo": "boss_db",
             "stars": 275
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         }
       ],
       "title": "数据库客户端"
@@ -484,7 +512,8 @@
             "owner": "davisp",
             "repo": "jiffy",
             "stars": 880
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -499,7 +528,8 @@
             "owner": "talentdeficit",
             "repo": "jsx",
             "stars": 696
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -514,7 +544,8 @@
             "owner": "iskra",
             "repo": "jsonx",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -529,7 +560,8 @@
             "owner": "davisp",
             "repo": "erljson_bench",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         }
       ],
       "title": "JSON"
@@ -550,7 +582,8 @@
             "owner": "tomas-abrahamsson",
             "repo": "gpb",
             "stars": 581
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -565,7 +598,8 @@
             "owner": "basho",
             "repo": "erlang_protobuffs",
             "stars": 392
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -580,7 +614,8 @@
             "owner": "msgpack",
             "repo": "msgpack-erlang",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         }
       ],
       "title": "协议"
@@ -597,11 +632,12 @@
             "archived": false,
             "id": 7202769,
             "language": "Erlang",
-            "last_commit": "2026-08-27T11:24:15Z",
+            "last_commit": "2026-08-28T05:59:10Z",
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16662
-          }
+            "stars": 16666
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -612,11 +648,12 @@
             "archived": false,
             "id": 924551,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T09:12:54Z",
+            "last_commit": "2026-08-28T06:48:56Z",
             "owner": "rabbitmq",
             "repo": "rabbitmq-server",
-            "stars": 13809
-          }
+            "stars": 13820
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -627,11 +664,12 @@
             "archived": false,
             "id": 507610,
             "language": "Erlang",
-            "last_commit": "2026-08-17T09:58:02Z",
+            "last_commit": "2026-08-27T18:32:28Z",
             "owner": "processone",
             "repo": "ejabberd",
-            "stars": 6722
-          }
+            "stars": 6721
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -645,8 +683,9 @@
             "last_commit": "2026-08-27T10:37:15Z",
             "owner": "vernemq",
             "repo": "vernemq",
-            "stars": 3624
-          }
+            "stars": 3626
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -657,11 +696,12 @@
             "archived": false,
             "id": 2354240,
             "language": "Erlang",
-            "last_commit": "2026-08-27T08:16:45Z",
+            "last_commit": "2026-08-28T06:25:01Z",
             "owner": "esl",
             "repo": "MongooseIM",
             "stars": 1751
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         }
       ],
       "title": "消息队列"
@@ -682,7 +722,8 @@
             "owner": "ignatov",
             "repo": "intellij-erlang",
             "stars": 752
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -697,7 +738,8 @@
             "owner": "massemanet",
             "repo": "distel",
             "stars": 324
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -712,7 +754,8 @@
             "owner": "jimenezrick",
             "repo": "vimerl",
             "stars": 302
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         }
       ],
       "title": "开发工具"
@@ -733,7 +776,8 @@
             "owner": "happi",
             "repo": "theBeamBook",
             "stars": 4050
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -748,7 +792,8 @@
             "owner": "processone",
             "repo": "tsung",
             "stars": 2629
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -763,7 +808,8 @@
             "owner": "kerl",
             "repo": "kerl",
             "stars": 1664
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -778,7 +824,8 @@
             "owner": "rustyio",
             "repo": "sync",
             "stars": 761
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         },
         {
           "node_type": "item",
@@ -793,14 +840,15 @@
             "owner": "ferd",
             "repo": "erlang-history",
             "stars": 495
-          }
+          },
+          "first_seen": "2026-08-28T06:55:46.970Z"
         }
       ],
       "title": "杂项"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:35:35.177Z",
+    "last_updated": "2026-08-28T06:55:46.970Z",
     "original_repository_info": {
       "archived": false,
       "id": 71371328,
