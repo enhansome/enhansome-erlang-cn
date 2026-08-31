@@ -517,8 +517,8 @@
             "id": 26610130,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-24T15:46:03Z",
-            "open_issues": 228,
+            "last_commit": "2026-08-30T18:45:16Z",
+            "open_issues": 230,
             "owner": "erlang",
             "repo": "rebar3",
             "stars": 1818,
@@ -913,11 +913,11 @@
             "id": 7202769,
             "language": "Erlang",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T21:09:47Z",
-            "open_issues": 173,
+            "last_commit": "2026-08-30T21:09:49Z",
+            "open_issues": 179,
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16670,
+            "stars": 16673,
             "topics": [
               "aiot",
               "broker",
@@ -955,11 +955,11 @@
             "id": 924551,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T18:33:03Z",
-            "open_issues": 267,
+            "last_commit": "2026-08-30T05:35:03Z",
+            "open_issues": 259,
             "owner": "rabbitmq",
             "repo": "rabbitmq-server",
-            "stars": 13822,
+            "stars": 13829,
             "topics": [
               "amqp",
               "amqp-0-9-1",
@@ -991,7 +991,7 @@
             "open_issues": 223,
             "owner": "processone",
             "repo": "ejabberd",
-            "stars": 6722,
+            "stars": 6720,
             "topics": [
               "chat",
               "ejabberd",
@@ -1182,7 +1182,7 @@
             "open_issues": 1,
             "owner": "happi",
             "repo": "theBeamBook",
-            "stars": 4050,
+            "stars": 4051,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:46.970Z"
@@ -1234,7 +1234,7 @@
             "open_issues": 18,
             "owner": "kerl",
             "repo": "kerl",
-            "stars": 1664,
+            "stars": 1665,
             "topics": [
               "erlang",
               "homebrew",
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:14:47.157Z",
+    "last_updated": "2026-08-31T01:21:59.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "Erlang资源大全中文版",
