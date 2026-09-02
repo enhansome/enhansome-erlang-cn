@@ -39,13 +39,13 @@
 
 *web开发框架*
 
-* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,525 | 🐛 65 | 🌐 Erlang | 📅 2026-08-25 - 一个小巧，高效的HTTP服务器.
-* [MochiWeb](https://github.com/mochi/mochiweb) ⭐ 1,890 | 🐛 11 | 🌐 Erlang | 📅 2026-08-16 - 一个用来构建Web应用的轻便,高效的HTTP应用框架的Erlang库.
+* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,524 | 🐛 65 | 🌐 Erlang | 📅 2026-08-25 - 一个小巧，高效的HTTP服务器.
+* [MochiWeb](https://github.com/mochi/mochiweb) ⭐ 1,891 | 🐛 11 | 🌐 Erlang | 📅 2026-08-16 - 一个用来构建Web应用的轻便,高效的HTTP应用框架的Erlang库.
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) ⭐ 1,849 | 🐛 81 | 🌐 Erlang | 📅 2022-01-10 - 一个从Rails获取灵感，而写的框架.
 * [N2O](https://github.com/synrc/n2o) ⭐ 1,341 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket 应用服务器.
 * [yaws](https://github.com/klacke/yaws) ⭐ 1,312 | 🐛 37 | 🌐 Erlang | 📅 2026-05-29 - 一个高效处理动态页面的web服务器.
 * [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 983 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - 一个完全用Elang编写的web应用框架(包括前端，后端).
-* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 846 | 🐛 195 | 🌐 Erlang | 📅 2026-08-31 - 高效,实时的web框架并且包括内容管理系统.
+* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 846 | 🐛 196 | 🌐 Erlang | 📅 2026-09-01 - 高效,实时的web框架并且包括内容管理系统.
 
 ### HTTP
 
@@ -125,11 +125,11 @@
 
 *消息队列服务器*
 
-* [emqtt](https://github.com/emqtt/emqttd) ⭐ 16,679 | 🐛 167 | 🌐 Erlang | 📅 2026-08-31 - 百万级分布式开源物联网MQTT消息服务器
-* [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,830 | 🐛 260 | 🌐 JavaScript | 📅 2026-09-01 - 支持多种协议AMQP, STOMP, MQTT, AMQP的消息代理服务器
+* [emqtt](https://github.com/emqtt/emqttd) ⭐ 16,681 | 🐛 174 | 🌐 Erlang | 📅 2026-09-01 - 百万级分布式开源物联网MQTT消息服务器
+* [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,830 | 🐛 263 | 🌐 JavaScript | 📅 2026-09-02 - 支持多种协议AMQP, STOMP, MQTT, AMQP的消息代理服务器
 * [ejabberd](https://github.com/processone/ejabberd) ⭐ 6,720 | 🐛 223 | 🌐 Erlang | 📅 2026-08-27 - 著名的XMPP服务器
-* [vernemq](https://github.com/erlio/vernemq) ⭐ 3,625 | 🐛 165 | 🌐 Erlang | 📅 2026-08-28 - 基于Erlang/OTP的分布式MQTT消息服务器
-* [MongooseIM](https://github.com/esl/MongooseIM) ⭐ 1,751 | 🐛 32 | 🌐 Erlang | 📅 2026-08-31 - 高效的分布式XMPP服务器,ejabberd的优化版本
+* [vernemq](https://github.com/erlio/vernemq) ⭐ 3,626 | 🐛 166 | 🌐 Erlang | 📅 2026-09-01 - 基于Erlang/OTP的分布式MQTT消息服务器
+* [MongooseIM](https://github.com/esl/MongooseIM) ⭐ 1,751 | 🐛 31 | 🌐 Erlang | 📅 2026-09-01 - 高效的分布式XMPP服务器,ejabberd的优化版本
 
 ## 开发工具
 
@@ -165,4 +165,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
