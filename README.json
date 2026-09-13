@@ -913,8 +913,8 @@
             "id": 7202769,
             "language": "Erlang",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T22:31:13Z",
-            "open_issues": 194,
+            "last_commit": "2026-09-12T21:10:11Z",
+            "open_issues": 200,
             "owner": "emqx",
             "repo": "emqx",
             "stars": 16705,
@@ -955,8 +955,8 @@
             "id": 924551,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T23:08:22Z",
-            "open_issues": 280,
+            "last_commit": "2026-09-12T18:35:09Z",
+            "open_issues": 289,
             "owner": "rabbitmq",
             "repo": "rabbitmq-server",
             "stars": 13849,
@@ -991,7 +991,7 @@
             "open_issues": 226,
             "owner": "processone",
             "repo": "ejabberd",
-            "stars": 6722,
+            "stars": 6723,
             "topics": [
               "chat",
               "ejabberd",
@@ -1029,7 +1029,7 @@
             "open_issues": 173,
             "owner": "vernemq",
             "repo": "vernemq",
-            "stars": 3628,
+            "stars": 3629,
             "topics": [
               "broker",
               "distributed",
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T01:05:33.234Z",
+    "last_updated": "2026-09-13T00:59:23.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "Erlang资源大全中文版",
