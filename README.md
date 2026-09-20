@@ -45,7 +45,7 @@
 * [N2O](https://github.com/synrc/n2o) ⭐ 1,340 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket 应用服务器.
 * [yaws](https://github.com/klacke/yaws) ⭐ 1,312 | 🐛 36 | 🌐 Erlang | 📅 2026-09-16 - 一个高效处理动态页面的web服务器.
 * [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 982 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - 一个完全用Elang编写的web应用框架(包括前端，后端).
-* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 847 | 🐛 194 | 🌐 Erlang | 📅 2026-09-18 - 高效,实时的web框架并且包括内容管理系统.
+* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 847 | 🐛 195 | 🌐 Erlang | 📅 2026-09-19 - 高效,实时的web框架并且包括内容管理系统.
 
 ### HTTP
 
@@ -86,7 +86,7 @@
 
 * [rebar3](https://github.com/rebar/rebar3) ⭐ 1,818 | 🐛 226 | 🌐 Erlang | 📅 2026-09-14 - 可以管理来自[Hex.pm](https://hex.pm/)的包. 更多查看 [rebar3.org](https://www.rebar3.org/)
 * [rebar](https://github.com/rebar/rebar) ⚠️ Archived - Erlang的构建工具,使用它可以方便的编译、测试erlang程序、内联驱动和打包Erlang发行版本.
-* [erlang.mk](https://github.com/ninenines/erlang.mk) ⭐ 587 | 🐛 41 | 🌐 Makefile | 📅 2026-09-18 - erlang的makefile.
+* [erlang.mk](https://github.com/ninenines/erlang.mk) ⭐ 587 | 🐛 40 | 🌐 Makefile | 📅 2026-09-19 - erlang的makefile.
 
 ## 网络
 
@@ -125,11 +125,11 @@
 
 *消息队列服务器*
 
-* [emqtt](https://github.com/emqtt/emqttd) ⭐ 16,739 | 🐛 205 | 🌐 Erlang | 📅 2026-09-18 - 百万级分布式开源物联网MQTT消息服务器
-* [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,857 | 🐛 268 | 🌐 JavaScript | 📅 2026-09-19 - 支持多种协议AMQP, STOMP, MQTT, AMQP的消息代理服务器
-* [ejabberd](https://github.com/processone/ejabberd) ⭐ 6,726 | 🐛 227 | 🌐 Erlang | 📅 2026-09-18 - 著名的XMPP服务器
+* [emqtt](https://github.com/emqtt/emqttd) ⭐ 16,746 | 🐛 208 | 🌐 Erlang | 📅 2026-09-20 - 百万级分布式开源物联网MQTT消息服务器
+* [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,860 | 🐛 268 | 🌐 JavaScript | 📅 2026-09-19 - 支持多种协议AMQP, STOMP, MQTT, AMQP的消息代理服务器
+* [ejabberd](https://github.com/processone/ejabberd) ⭐ 6,728 | 🐛 227 | 🌐 Erlang | 📅 2026-09-18 - 著名的XMPP服务器
 * [vernemq](https://github.com/erlio/vernemq) ⭐ 3,634 | 🐛 168 | 🌐 Erlang | 📅 2026-09-17 - 基于Erlang/OTP的分布式MQTT消息服务器
-* [MongooseIM](https://github.com/esl/MongooseIM) ⭐ 1,757 | 🐛 37 | 🌐 Erlang | 📅 2026-09-18 - 高效的分布式XMPP服务器,ejabberd的优化版本
+* [MongooseIM](https://github.com/esl/MongooseIM) ⭐ 1,759 | 🐛 37 | 🌐 Erlang | 📅 2026-09-18 - 高效的分布式XMPP服务器,ejabberd的优化版本
 
 ## 开发工具
 
@@ -149,7 +149,7 @@
 
 *杂项*
 
-* [theBeamBook](https://github.com/happi/theBeamBook) ⭐ 4,055 | 🐛 1 | 🌐 Erlang | 📅 2026-09-05 - A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.
+* [theBeamBook](https://github.com/happi/theBeamBook) ⭐ 4,054 | 🐛 1 | 🌐 Erlang | 📅 2026-09-05 - A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.
 * [tsung](https://github.com/processone/tsung) ⭐ 2,628 | 🐛 130 | 🌐 Erlang | 📅 2026-03-02 - 支持HTTP, XMPP, LDAP,等多种协议的压力测试工具.
 * [kerl](https://github.com/kerl/kerl) ⭐ 1,665 | 🐛 18 | 🌐 Shell | 📅 2025-06-19 - Erlang安装工具，能够轻松切换多个版本.
 * [sync](https://github.com/rustyio/sync) ⭐ 760 | 🐛 17 | 🌐 Erlang | 📅 2025-06-30 - 一个开发时自动重编译的工具.
@@ -165,4 +165,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
