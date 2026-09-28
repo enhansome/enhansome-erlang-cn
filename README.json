@@ -178,7 +178,7 @@
             "id": 1847706,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T21:38:13Z",
+            "last_commit": "2026-09-27T20:13:15Z",
             "open_issues": 194,
             "owner": "zotonic",
             "repo": "zotonic",
@@ -211,11 +211,11 @@
             "id": 4864481,
             "language": "Erlang",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-27T01:09:09Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-27T07:57:39Z",
+            "open_issues": 13,
             "owner": "benoitc",
             "repo": "hackney",
-            "stars": 1418,
+            "stars": 1419,
             "topics": [
               "client",
               "erlang",
@@ -240,7 +240,7 @@
             "open_issues": 24,
             "owner": "ninenines",
             "repo": "gun",
-            "stars": 950,
+            "stars": 951,
             "topics": [
               "cowboy",
               "erlang",
@@ -348,7 +348,7 @@
             "open_issues": 50,
             "owner": "proper-testing",
             "repo": "proper",
-            "stars": 918,
+            "stars": 919,
             "topics": [
               "codecov-badge",
               "erlang",
@@ -517,8 +517,8 @@
             "id": 26610130,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T13:26:13Z",
-            "open_issues": 226,
+            "last_commit": "2026-09-27T18:44:45Z",
+            "open_issues": 229,
             "owner": "erlang",
             "repo": "rebar3",
             "stars": 1820,
@@ -606,7 +606,7 @@
             "open_issues": 5,
             "owner": "ninenines",
             "repo": "ranch",
-            "stars": 1243,
+            "stars": 1244,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:46.970Z"
@@ -913,11 +913,11 @@
             "id": 7202769,
             "language": "Erlang",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T21:10:27Z",
-            "open_issues": 243,
+            "last_commit": "2026-09-27T21:10:54Z",
+            "open_issues": 246,
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16759,
+            "stars": 16762,
             "topics": [
               "aiot",
               "broker",
@@ -955,11 +955,11 @@
             "id": 924551,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T18:32:52Z",
-            "open_issues": 266,
+            "last_commit": "2026-09-27T20:35:35Z",
+            "open_issues": 263,
             "owner": "rabbitmq",
             "repo": "rabbitmq-server",
-            "stars": 13880,
+            "stars": 13882,
             "topics": [
               "amqp",
               "amqp-0-9-1",
@@ -988,7 +988,7 @@
             "language": "Erlang",
             "license": "NOASSERTION",
             "last_commit": "2026-09-25T11:23:03Z",
-            "open_issues": 226,
+            "open_issues": 227,
             "owner": "processone",
             "repo": "ejabberd",
             "stars": 6733,
@@ -1182,7 +1182,7 @@
             "open_issues": 1,
             "owner": "happi",
             "repo": "theBeamBook",
-            "stars": 4057,
+            "stars": 4058,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:46.970Z"
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T01:25:21.670Z",
+    "last_updated": "2026-09-28T01:38:24.492Z",
     "original_repository_info": {
       "archived": false,
       "description": "Erlang资源大全中文版",
