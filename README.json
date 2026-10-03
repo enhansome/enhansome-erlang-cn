@@ -917,7 +917,7 @@
             "open_issues": 245,
             "owner": "emqx",
             "repo": "emqx",
-            "stars": 16768,
+            "stars": 16769,
             "topics": [
               "aiot",
               "broker",
@@ -955,8 +955,8 @@
             "id": 924551,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T00:02:52Z",
-            "open_issues": 264,
+            "last_commit": "2026-10-03T03:50:39Z",
+            "open_issues": 266,
             "owner": "rabbitmq",
             "repo": "rabbitmq-server",
             "stars": 13900,
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:56:08.116Z",
+    "last_updated": "2026-10-03T04:42:36.228Z",
     "original_repository_info": {
       "archived": false,
       "description": "Erlang资源大全中文版",

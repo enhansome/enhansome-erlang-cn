@@ -125,8 +125,8 @@
 
 *消息队列服务器*
 
-* [emqtt](https://github.com/emqtt/emqttd) ⭐ 16,768 | 🐛 245 | 🌐 Erlang | 📅 2026-10-02 - 百万级分布式开源物联网MQTT消息服务器
-* [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,900 | 🐛 264 | 🌐 JavaScript | 📅 2026-10-03 - 支持多种协议AMQP, STOMP, MQTT, AMQP的消息代理服务器
+* [emqtt](https://github.com/emqtt/emqttd) ⭐ 16,769 | 🐛 245 | 🌐 Erlang | 📅 2026-10-02 - 百万级分布式开源物联网MQTT消息服务器
+* [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,900 | 🐛 266 | 🌐 JavaScript | 📅 2026-10-03 - 支持多种协议AMQP, STOMP, MQTT, AMQP的消息代理服务器
 * [ejabberd](https://github.com/processone/ejabberd) ⭐ 6,735 | 🐛 224 | 🌐 Erlang | 📅 2026-10-01 - 著名的XMPP服务器
 * [vernemq](https://github.com/erlio/vernemq) ⭐ 3,637 | 🐛 174 | 🌐 Erlang | 📅 2026-10-02 - 基于Erlang/OTP的分布式MQTT消息服务器
 * [MongooseIM](https://github.com/esl/MongooseIM) ⭐ 1,758 | 🐛 34 | 🌐 Erlang | 📅 2026-10-01 - 高效的分布式XMPP服务器,ejabberd的优化版本
