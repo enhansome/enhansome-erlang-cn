@@ -39,20 +39,20 @@
 
 *web开发框架*
 
-* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,521 | 🐛 72 | 🌐 Erlang | 📅 2026-10-07 - 一个小巧，高效的HTTP服务器.
+* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,522 | 🐛 61 | 🌐 Erlang | 📅 2026-10-08 - 一个小巧，高效的HTTP服务器.
 * [MochiWeb](https://github.com/mochi/mochiweb) ⭐ 1,889 | 🐛 11 | 🌐 Erlang | 📅 2026-08-16 - 一个用来构建Web应用的轻便,高效的HTTP应用框架的Erlang库.
-* [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) ⭐ 1,848 | 🐛 81 | 🌐 Erlang | 📅 2022-01-10 - 一个从Rails获取灵感，而写的框架.
+* [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) ⭐ 1,849 | 🐛 81 | 🌐 Erlang | 📅 2022-01-10 - 一个从Rails获取灵感，而写的框架.
 * [N2O](https://github.com/synrc/n2o) ⭐ 1,340 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket 应用服务器.
 * [yaws](https://github.com/klacke/yaws) ⭐ 1,313 | 🐛 36 | 🌐 Erlang | 📅 2026-09-16 - 一个高效处理动态页面的web服务器.
 * [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 982 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - 一个完全用Elang编写的web应用框架(包括前端，后端).
-* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 849 | 🐛 193 | 🌐 Erlang | 📅 2026-10-07 - 高效,实时的web框架并且包括内容管理系统.
+* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 849 | 🐛 193 | 🌐 Erlang | 📅 2026-10-08 - 高效,实时的web框架并且包括内容管理系统.
 
 ### HTTP
 
 *HTTP相关的库*
 
 * [hackney](https://github.com/benoitc/hackney) ⭐ 1,420 | 🐛 16 | 🌐 Erlang | 📅 2026-10-03 - 一个小巧的Erlang HTTP客户端.
-* [gun](https://github.com/ninenines/gun) ⭐ 951 | 🐛 33 | 🌐 Erlang | 📅 2026-10-07 - 支持 HTTP/1.1, SPDY 和Websocket的HTTP客户端.
+* [gun](https://github.com/ninenines/gun) ⭐ 951 | 🐛 34 | 🌐 Erlang | 📅 2026-10-08 - 支持 HTTP/1.1, SPDY 和Websocket的HTTP客户端.
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) ⭐ 518 | 🐛 19 | 🌐 Erlang | 📅 2026-05-01 - Erlang HTTP 客户端.
 * [bullet](https://github.com/ninenines/bullet) ⚠️ Archived - 一个cowboy用到的小巧，高效，稳定的类似WebSockets的协议库.
 * [lhttpc](https://github.com/esl/lhttpc) ⭐ 128 | 🐛 20 | 🌐 Erlang | 📅 2022-03-29 - 一个支持 lightweight HTTP/1.1 的客户端.
@@ -93,7 +93,7 @@
 *网络相关的库和工具*
 
 * [ranch](https://github.com/ninenines/ranch) ⭐ 1,245 | 🐛 7 | 🌐 Erlang | 📅 2026-09-08 - cowboy用到的TCP网络库.
-* [gen\_rpc](https://github.com/priestjim/gen_rpc) ⭐ 229 | 🐛 9 | 🌐 Erlang | 📅 2025-11-05 - 一个Erlang-VM的RPC扩展库.
+* [gen\_rpc](https://github.com/priestjim/gen_rpc) ⭐ 228 | 🐛 9 | 🌐 Erlang | 📅 2025-11-05 - 一个Erlang-VM的RPC扩展库.
 * [barrel\_tcp](https://github.com/benoitc-attic/barrel_tcp) ⭐ 83 | 🐛 1 | 🌐 Erlang | 📅 2015-07-28 - 低延迟的TCP网络库.
 
 ## 数据库客户端
@@ -119,17 +119,17 @@
 
 * [gpb](https://github.com/tomas-abrahamsson/gpb) ⭐ 581 | 🐛 4 | 🌐 Erlang | 📅 2026-05-27 - 对rebar3支持非常好的protobuf库.
 * [erlang\_protobuffs](https://github.com/basho/erlang_protobuffs) ⚠️ Archived - riak数据库在用的protobuf库,支持rebar.
-* [msgpack-erlang](https://github.com/msgpack/msgpack-erlang) ⭐ 219 | 🐛 5 | 🌐 Erlang | 📅 2025-06-11 - MessagePack库.
+* [msgpack-erlang](https://github.com/msgpack/msgpack-erlang) ⭐ 219 | 🐛 4 | 🌐 Erlang | 📅 2025-06-11 - MessagePack库.
 
 ## 消息队列
 
 *消息队列服务器*
 
-* [emqtt](https://github.com/emqtt/emqttd) ⭐ 16,778 | 🐛 246 | 🌐 Erlang | 📅 2026-10-07 - 百万级分布式开源物联网MQTT消息服务器
-* [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,910 | 🐛 266 | 🌐 JavaScript | 📅 2026-10-08 - 支持多种协议AMQP, STOMP, MQTT, AMQP的消息代理服务器
-* [ejabberd](https://github.com/processone/ejabberd) ⭐ 6,738 | 🐛 224 | 🌐 Erlang | 📅 2026-10-05 - 著名的XMPP服务器
-* [vernemq](https://github.com/erlio/vernemq) ⭐ 3,638 | 🐛 170 | 🌐 Erlang | 📅 2026-10-07 - 基于Erlang/OTP的分布式MQTT消息服务器
-* [MongooseIM](https://github.com/esl/MongooseIM) ⭐ 1,759 | 🐛 34 | 🌐 Erlang | 📅 2026-10-01 - 高效的分布式XMPP服务器,ejabberd的优化版本
+* [emqtt](https://github.com/emqtt/emqttd) ⭐ 16,779 | 🐛 245 | 🌐 Erlang | 📅 2026-10-09 - 百万级分布式开源物联网MQTT消息服务器
+* [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,911 | 🐛 271 | 🌐 JavaScript | 📅 2026-10-09 - 支持多种协议AMQP, STOMP, MQTT, AMQP的消息代理服务器
+* [ejabberd](https://github.com/processone/ejabberd) ⭐ 6,739 | 🐛 224 | 🌐 Erlang | 📅 2026-10-08 - 著名的XMPP服务器
+* [vernemq](https://github.com/erlio/vernemq) ⭐ 3,638 | 🐛 170 | 🌐 Erlang | 📅 2026-10-08 - 基于Erlang/OTP的分布式MQTT消息服务器
+* [MongooseIM](https://github.com/esl/MongooseIM) ⭐ 1,759 | 🐛 34 | 🌐 Erlang | 📅 2026-10-08 - 高效的分布式XMPP服务器,ejabberd的优化版本
 
 ## 开发工具
 
@@ -165,4 +165,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
