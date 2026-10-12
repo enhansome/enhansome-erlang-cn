@@ -84,7 +84,7 @@
 
 *项目构建工具.*
 
-* [rebar3](https://github.com/rebar/rebar3) ⭐ 1,821 | 🐛 226 | 🌐 Erlang | 📅 2026-10-05 - 可以管理来自[Hex.pm](https://hex.pm/)的包. 更多查看 [rebar3.org](https://www.rebar3.org/)
+* [rebar3](https://github.com/rebar/rebar3) ⭐ 1,822 | 🐛 226 | 🌐 Erlang | 📅 2026-10-05 - 可以管理来自[Hex.pm](https://hex.pm/)的包. 更多查看 [rebar3.org](https://www.rebar3.org/)
 * [rebar](https://github.com/rebar/rebar) ⚠️ Archived - Erlang的构建工具,使用它可以方便的编译、测试erlang程序、内联驱动和打包Erlang发行版本.
 * [erlang.mk](https://github.com/ninenines/erlang.mk) ⭐ 586 | 🐛 3 | 🌐 Makefile | 📅 2026-10-04 - erlang的makefile.
 
@@ -125,11 +125,11 @@
 
 *消息队列服务器*
 
-* [emqtt](https://github.com/emqtt/emqttd) ⭐ 16,782 | 🐛 247 | 🌐 Erlang | 📅 2026-10-10 - 百万级分布式开源物联网MQTT消息服务器
-* [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,911 | 🐛 268 | 🌐 JavaScript | 📅 2026-10-10 - 支持多种协议AMQP, STOMP, MQTT, AMQP的消息代理服务器
-* [ejabberd](https://github.com/processone/ejabberd) ⭐ 6,740 | 🐛 225 | 🌐 Erlang | 📅 2026-10-09 - 著名的XMPP服务器
+* [emqtt](https://github.com/emqtt/emqttd) ⭐ 16,785 | 🐛 246 | 🌐 Erlang | 📅 2026-10-12 - 百万级分布式开源物联网MQTT消息服务器
+* [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,914 | 🐛 268 | 🌐 JavaScript | 📅 2026-10-10 - 支持多种协议AMQP, STOMP, MQTT, AMQP的消息代理服务器
+* [ejabberd](https://github.com/processone/ejabberd) ⭐ 6,741 | 🐛 225 | 🌐 Erlang | 📅 2026-10-09 - 著名的XMPP服务器
 * [vernemq](https://github.com/erlio/vernemq) ⭐ 3,638 | 🐛 170 | 🌐 Erlang | 📅 2026-10-08 - 基于Erlang/OTP的分布式MQTT消息服务器
-* [MongooseIM](https://github.com/esl/MongooseIM) ⭐ 1,760 | 🐛 34 | 🌐 Erlang | 📅 2026-10-09 - 高效的分布式XMPP服务器,ejabberd的优化版本
+* [MongooseIM](https://github.com/esl/MongooseIM) ⭐ 1,761 | 🐛 34 | 🌐 Erlang | 📅 2026-10-09 - 高效的分布式XMPP服务器,ejabberd的优化版本
 
 ## 开发工具
 
@@ -151,7 +151,7 @@
 
 * [theBeamBook](https://github.com/happi/theBeamBook) ⭐ 4,058 | 🐛 1 | 🌐 Erlang | 📅 2026-09-25 - A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.
 * [tsung](https://github.com/processone/tsung) ⭐ 2,628 | 🐛 130 | 🌐 Erlang | 📅 2026-03-02 - 支持HTTP, XMPP, LDAP,等多种协议的压力测试工具.
-* [kerl](https://github.com/kerl/kerl) ⭐ 1,665 | 🐛 18 | 🌐 Shell | 📅 2025-06-19 - Erlang安装工具，能够轻松切换多个版本.
+* [kerl](https://github.com/kerl/kerl) ⭐ 1,666 | 🐛 18 | 🌐 Shell | 📅 2025-06-19 - Erlang安装工具，能够轻松切换多个版本.
 * [sync](https://github.com/rustyio/sync) ⭐ 761 | 🐛 17 | 🌐 Erlang | 📅 2025-06-30 - 一个开发时自动重编译的工具.
 * [erlang-history](https://github.com/ferd/erlang-history) ⚠️ Archived - 在Erlang的shell中加入历史记录.
 
@@ -165,4 +165,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
