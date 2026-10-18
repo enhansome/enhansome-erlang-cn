@@ -86,13 +86,13 @@
 
 * [rebar3](https://github.com/rebar/rebar3) ⭐ 1,822 | 🐛 226 | 🌐 Erlang | 📅 2026-10-13 - 可以管理来自[Hex.pm](https://hex.pm/)的包. 更多查看 [rebar3.org](https://www.rebar3.org/)
 * [rebar](https://github.com/rebar/rebar) ⚠️ Archived - Erlang的构建工具,使用它可以方便的编译、测试erlang程序、内联驱动和打包Erlang发行版本.
-* [erlang.mk](https://github.com/ninenines/erlang.mk) ⭐ 586 | 🐛 4 | 🌐 Makefile | 📅 2026-10-15 - erlang的makefile.
+* [erlang.mk](https://github.com/ninenines/erlang.mk) ⭐ 586 | 🐛 3 | 🌐 Makefile | 📅 2026-10-17 - erlang的makefile.
 
 ## 网络
 
 *网络相关的库和工具*
 
-* [ranch](https://github.com/ninenines/ranch) ⭐ 1,245 | 🐛 6 | 🌐 Erlang | 📅 2026-10-16 - cowboy用到的TCP网络库.
+* [ranch](https://github.com/ninenines/ranch) ⭐ 1,245 | 🐛 6 | 🌐 Erlang | 📅 2026-10-17 - cowboy用到的TCP网络库.
 * [gen\_rpc](https://github.com/priestjim/gen_rpc) ⭐ 228 | 🐛 9 | 🌐 Erlang | 📅 2025-11-05 - 一个Erlang-VM的RPC扩展库.
 * [barrel\_tcp](https://github.com/benoitc-attic/barrel_tcp) ⭐ 83 | 🐛 1 | 🌐 Erlang | 📅 2015-07-28 - 低延迟的TCP网络库.
 
@@ -125,9 +125,9 @@
 
 *消息队列服务器*
 
-* [emqtt](https://github.com/emqtt/emqttd) ⭐ 16,809 | 🐛 245 | 🌐 Erlang | 📅 2026-10-17 - 百万级分布式开源物联网MQTT消息服务器
-* [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,928 | 🐛 273 | 🌐 JavaScript | 📅 2026-10-17 - 支持多种协议AMQP, STOMP, MQTT, AMQP的消息代理服务器
-* [ejabberd](https://github.com/processone/ejabberd) ⭐ 6,745 | 🐛 221 | 🌐 Erlang | 📅 2026-10-16 - 著名的XMPP服务器
+* [emqtt](https://github.com/emqtt/emqttd) ⭐ 16,815 | 🐛 245 | 🌐 Erlang | 📅 2026-10-17 - 百万级分布式开源物联网MQTT消息服务器
+* [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,929 | 🐛 282 | 🌐 JavaScript | 📅 2026-10-17 - 支持多种协议AMQP, STOMP, MQTT, AMQP的消息代理服务器
+* [ejabberd](https://github.com/processone/ejabberd) ⭐ 6,745 | 🐛 221 | 🌐 Erlang | 📅 2026-10-17 - 著名的XMPP服务器
 * [vernemq](https://github.com/erlio/vernemq) ⭐ 3,640 | 🐛 169 | 🌐 Erlang | 📅 2026-10-14 - 基于Erlang/OTP的分布式MQTT消息服务器
 * [MongooseIM](https://github.com/esl/MongooseIM) ⭐ 1,758 | 🐛 33 | 🌐 Erlang | 📅 2026-10-15 - 高效的分布式XMPP服务器,ejabberd的优化版本
 
@@ -165,4 +165,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
