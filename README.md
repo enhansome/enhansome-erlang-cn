@@ -39,13 +39,13 @@
 
 *web开发框架*
 
-* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,518 | 🐛 66 | 🌐 Erlang | 📅 2026-10-15 - 一个小巧，高效的HTTP服务器.
+* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,519 | 🐛 66 | 🌐 Erlang | 📅 2026-10-15 - 一个小巧，高效的HTTP服务器.
 * [MochiWeb](https://github.com/mochi/mochiweb) ⭐ 1,889 | 🐛 11 | 🌐 Erlang | 📅 2026-08-16 - 一个用来构建Web应用的轻便,高效的HTTP应用框架的Erlang库.
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) ⭐ 1,848 | 🐛 81 | 🌐 Erlang | 📅 2022-01-10 - 一个从Rails获取灵感，而写的框架.
 * [N2O](https://github.com/synrc/n2o) ⭐ 1,340 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket 应用服务器.
-* [yaws](https://github.com/klacke/yaws) ⭐ 1,311 | 🐛 36 | 🌐 Erlang | 📅 2026-09-16 - 一个高效处理动态页面的web服务器.
-* [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 982 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - 一个完全用Elang编写的web应用框架(包括前端，后端).
-* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 850 | 🐛 190 | 🌐 Erlang | 📅 2026-10-21 - 高效,实时的web框架并且包括内容管理系统.
+* [yaws](https://github.com/klacke/yaws) ⭐ 1,312 | 🐛 36 | 🌐 Erlang | 📅 2026-09-16 - 一个高效处理动态页面的web服务器.
+* [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 983 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - 一个完全用Elang编写的web应用框架(包括前端，后端).
+* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 850 | 🐛 190 | 🌐 Erlang | 📅 2026-10-22 - 高效,实时的web框架并且包括内容管理系统.
 
 ### HTTP
 
@@ -86,13 +86,13 @@
 
 * [rebar3](https://github.com/rebar/rebar3) ⭐ 1,822 | 🐛 225 | 🌐 Erlang | 📅 2026-10-22 - 可以管理来自[Hex.pm](https://hex.pm/)的包. 更多查看 [rebar3.org](https://www.rebar3.org/)
 * [rebar](https://github.com/rebar/rebar) ⚠️ Archived - Erlang的构建工具,使用它可以方便的编译、测试erlang程序、内联驱动和打包Erlang发行版本.
-* [erlang.mk](https://github.com/ninenines/erlang.mk) ⭐ 586 | 🐛 4 | 🌐 Makefile | 📅 2026-10-21 - erlang的makefile.
+* [erlang.mk](https://github.com/ninenines/erlang.mk) ⭐ 586 | 🐛 4 | 🌐 Makefile | 📅 2026-10-22 - erlang的makefile.
 
 ## 网络
 
 *网络相关的库和工具*
 
-* [ranch](https://github.com/ninenines/ranch) ⭐ 1,245 | 🐛 10 | 🌐 Erlang | 📅 2026-10-21 - cowboy用到的TCP网络库.
+* [ranch](https://github.com/ninenines/ranch) ⭐ 1,245 | 🐛 9 | 🌐 Erlang | 📅 2026-10-22 - cowboy用到的TCP网络库.
 * [gen\_rpc](https://github.com/priestjim/gen_rpc) ⭐ 228 | 🐛 9 | 🌐 Erlang | 📅 2025-11-05 - 一个Erlang-VM的RPC扩展库.
 * [barrel\_tcp](https://github.com/benoitc-attic/barrel_tcp) ⭐ 83 | 🐛 1 | 🌐 Erlang | 📅 2015-07-28 - 低延迟的TCP网络库.
 
@@ -125,10 +125,10 @@
 
 *消息队列服务器*
 
-* [emqtt](https://github.com/emqtt/emqttd) ⭐ 16,851 | 🐛 248 | 🌐 Erlang | 📅 2026-10-21 - 百万级分布式开源物联网MQTT消息服务器
-* [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,937 | 🐛 278 | 🌐 JavaScript | 📅 2026-10-22 - 支持多种协议AMQP, STOMP, MQTT, AMQP的消息代理服务器
-* [ejabberd](https://github.com/processone/ejabberd) ⭐ 6,748 | 🐛 221 | 🌐 Erlang | 📅 2026-10-21 - 著名的XMPP服务器
-* [vernemq](https://github.com/erlio/vernemq) ⭐ 3,642 | 🐛 170 | 🌐 Erlang | 📅 2026-10-14 - 基于Erlang/OTP的分布式MQTT消息服务器
+* [emqtt](https://github.com/emqtt/emqttd) ⭐ 16,852 | 🐛 256 | 🌐 Erlang | 📅 2026-10-22 - 百万级分布式开源物联网MQTT消息服务器
+* [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,937 | 🐛 279 | 🌐 JavaScript | 📅 2026-10-22 - 支持多种协议AMQP, STOMP, MQTT, AMQP的消息代理服务器
+* [ejabberd](https://github.com/processone/ejabberd) ⭐ 6,750 | 🐛 221 | 🌐 Erlang | 📅 2026-10-22 - 著名的XMPP服务器
+* [vernemq](https://github.com/erlio/vernemq) ⭐ 3,641 | 🐛 172 | 🌐 Erlang | 📅 2026-10-22 - 基于Erlang/OTP的分布式MQTT消息服务器
 * [MongooseIM](https://github.com/esl/MongooseIM) ⭐ 1,758 | 🐛 33 | 🌐 Erlang | 📅 2026-10-15 - 高效的分布式XMPP服务器,ejabberd的优化版本
 
 ## 开发工具
@@ -151,7 +151,7 @@
 
 * [theBeamBook](https://github.com/happi/theBeamBook) ⭐ 4,060 | 🐛 1 | 🌐 Erlang | 📅 2026-09-25 - A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.
 * [tsung](https://github.com/processone/tsung) ⭐ 2,630 | 🐛 130 | 🌐 Erlang | 📅 2026-03-02 - 支持HTTP, XMPP, LDAP,等多种协议的压力测试工具.
-* [kerl](https://github.com/kerl/kerl) ⭐ 1,666 | 🐛 18 | 🌐 Shell | 📅 2025-06-19 - Erlang安装工具，能够轻松切换多个版本.
+* [kerl](https://github.com/kerl/kerl) ⭐ 1,667 | 🐛 18 | 🌐 Shell | 📅 2025-06-19 - Erlang安装工具，能够轻松切换多个版本.
 * [sync](https://github.com/rustyio/sync) ⭐ 760 | 🐛 17 | 🌐 Erlang | 📅 2025-06-30 - 一个开发时自动重编译的工具.
 * [erlang-history](https://github.com/ferd/erlang-history) ⚠️ Archived - 在Erlang的shell中加入历史记录.
 
@@ -165,4 +165,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
