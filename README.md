@@ -39,20 +39,20 @@
 
 *web开发框架*
 
-* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,523 | 🐛 61 | 🌐 Erlang | 📅 2026-11-20 - 一个小巧，高效的HTTP服务器.
+* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,523 | 🐛 61 | 🌐 Erlang | 📅 2026-11-23 - 一个小巧，高效的HTTP服务器.
 * [MochiWeb](https://github.com/mochi/mochiweb) ⭐ 1,890 | 🐛 11 | 🌐 Erlang | 📅 2026-11-13 - 一个用来构建Web应用的轻便,高效的HTTP应用框架的Erlang库.
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) ⭐ 1,848 | 🐛 81 | 🌐 Erlang | 📅 2022-01-10 - 一个从Rails获取灵感，而写的框架.
 * [N2O](https://github.com/synrc/n2o) ⭐ 1,340 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket 应用服务器.
 * [yaws](https://github.com/klacke/yaws) ⭐ 1,312 | 🐛 37 | 🌐 Erlang | 📅 2026-11-09 - 一个高效处理动态页面的web服务器.
 * [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 981 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - 一个完全用Elang编写的web应用框架(包括前端，后端).
-* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 850 | 🐛 151 | 🌐 Erlang | 📅 2026-11-22 - 高效,实时的web框架并且包括内容管理系统.
+* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 850 | 🐛 150 | 🌐 Erlang | 📅 2026-11-23 - 高效,实时的web框架并且包括内容管理系统.
 
 ### HTTP
 
 *HTTP相关的库*
 
 * [hackney](https://github.com/benoitc/hackney) ⭐ 1,417 | 🐛 13 | 🌐 Erlang | 📅 2026-11-22 - 一个小巧的Erlang HTTP客户端.
-* [gun](https://github.com/ninenines/gun) ⭐ 948 | 🐛 35 | 🌐 Erlang | 📅 2026-11-20 - 支持 HTTP/1.1, SPDY 和Websocket的HTTP客户端.
+* [gun](https://github.com/ninenines/gun) ⭐ 949 | 🐛 35 | 🌐 Erlang | 📅 2026-11-23 - 支持 HTTP/1.1, SPDY 和Websocket的HTTP客户端.
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) ⭐ 517 | 🐛 19 | 🌐 Erlang | 📅 2026-05-01 - Erlang HTTP 客户端.
 * [bullet](https://github.com/ninenines/bullet) ⚠️ Archived - 一个cowboy用到的小巧，高效，稳定的类似WebSockets的协议库.
 * [lhttpc](https://github.com/esl/lhttpc) ⭐ 128 | 🐛 20 | 🌐 Erlang | 📅 2022-03-29 - 一个支持 lightweight HTTP/1.1 的客户端.
@@ -84,7 +84,7 @@
 
 *项目构建工具.*
 
-* [rebar3](https://github.com/rebar/rebar3) ⭐ 1,825 | 🐛 230 | 🌐 Erlang | 📅 2026-11-15 - 可以管理来自[Hex.pm](https://hex.pm/)的包. 更多查看 [rebar3.org](https://www.rebar3.org/)
+* [rebar3](https://github.com/rebar/rebar3) ⭐ 1,825 | 🐛 231 | 🌐 Erlang | 📅 2026-11-15 - 可以管理来自[Hex.pm](https://hex.pm/)的包. 更多查看 [rebar3.org](https://www.rebar3.org/)
 * [rebar](https://github.com/rebar/rebar) ⚠️ Archived - Erlang的构建工具,使用它可以方便的编译、测试erlang程序、内联驱动和打包Erlang发行版本.
 * [erlang.mk](https://github.com/ninenines/erlang.mk) ⭐ 587 | 🐛 4 | 🌐 Makefile | 📅 2026-10-23 - erlang的makefile.
 
@@ -92,7 +92,7 @@
 
 *网络相关的库和工具*
 
-* [ranch](https://github.com/ninenines/ranch) ⭐ 1,244 | 🐛 12 | 🌐 Erlang | 📅 2026-11-22 - cowboy用到的TCP网络库.
+* [ranch](https://github.com/ninenines/ranch) ⭐ 1,244 | 🐛 11 | 🌐 Erlang | 📅 2026-11-23 - cowboy用到的TCP网络库.
 * [gen\_rpc](https://github.com/priestjim/gen_rpc) ⭐ 229 | 🐛 1 | 🌐 Erlang | 📅 2026-11-09 - 一个Erlang-VM的RPC扩展库.
 * [barrel\_tcp](https://github.com/benoitc-attic/barrel_tcp) ⭐ 83 | 🐛 1 | 🌐 Erlang | 📅 2015-07-28 - 低延迟的TCP网络库.
 
@@ -108,7 +108,7 @@
 
 *Json协议相关的库*
 
-* [jiffy](https://github.com/davisp/jiffy) ⭐ 879 | 🐛 0 | 🌐 C | 📅 2026-11-22 - 利用NIFs解析JSON.
+* [jiffy](https://github.com/davisp/jiffy) ⭐ 879 | 🐛 0 | 🌐 C | 📅 2026-11-24 - 利用NIFs解析JSON.
 * [jsx](https://github.com/talentdeficit/jsx) ⭐ 696 | 🐛 24 | 🌐 Erlang | 📅 2024-06-26 - 完全用erlang编写的json解析库.
 * [jsonx](https://github.com/iskra/jsonx) ⭐ 91 | 🐛 8 | 🌐 C | 📅 2016-03-30 - 用c语言实现解析json的erlang库.
 * [erljson\_bench](https://github.com/davisp/erljson_bench) ⭐ 11 | 🐛 1 | 🌐 C | 📅 2015-07-14 - 各个json解析库的性能对比.
@@ -117,7 +117,7 @@
 
 *各种协议库*
 
-* [gpb](https://github.com/tomas-abrahamsson/gpb) ⭐ 582 | 🐛 4 | 🌐 Erlang | 📅 2026-05-27 - 对rebar3支持非常好的protobuf库.
+* [gpb](https://github.com/tomas-abrahamsson/gpb) ⭐ 582 | 🐛 5 | 🌐 Erlang | 📅 2026-05-27 - 对rebar3支持非常好的protobuf库.
 * [erlang\_protobuffs](https://github.com/basho/erlang_protobuffs) ⚠️ Archived - riak数据库在用的protobuf库,支持rebar.
 * [msgpack-erlang](https://github.com/msgpack/msgpack-erlang) ⭐ 218 | 🐛 5 | 🌐 Erlang | 📅 2025-06-11 - MessagePack库.
 
@@ -125,17 +125,17 @@
 
 *消息队列服务器*
 
-* [emqtt](https://github.com/emqtt/emqttd) ⭐ 16,932 | 🐛 280 | 🌐 Erlang | 📅 2026-11-23 - 百万级分布式开源物联网MQTT消息服务器
-* [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,980 | 🐛 274 | 🌐 JavaScript | 📅 2026-11-22 - 支持多种协议AMQP, STOMP, MQTT, AMQP的消息代理服务器
-* [ejabberd](https://github.com/processone/ejabberd) ⭐ 6,754 | 🐛 230 | 🌐 Erlang | 📅 2026-11-22 - 著名的XMPP服务器
-* [vernemq](https://github.com/erlio/vernemq) ⭐ 3,657 | 🐛 183 | 🌐 Erlang | 📅 2026-11-22 - 基于Erlang/OTP的分布式MQTT消息服务器
-* [MongooseIM](https://github.com/esl/MongooseIM) ⭐ 1,758 | 🐛 38 | 🌐 Erlang | 📅 2026-11-20 - 高效的分布式XMPP服务器,ejabberd的优化版本
+* [emqtt](https://github.com/emqtt/emqttd) ⭐ 16,938 | 🐛 281 | 🌐 Erlang | 📅 2026-11-24 - 百万级分布式开源物联网MQTT消息服务器
+* [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,983 | 🐛 269 | 🌐 JavaScript | 📅 2026-11-24 - 支持多种协议AMQP, STOMP, MQTT, AMQP的消息代理服务器
+* [ejabberd](https://github.com/processone/ejabberd) ⭐ 6,754 | 🐛 234 | 🌐 Erlang | 📅 2026-11-23 - 著名的XMPP服务器
+* [vernemq](https://github.com/erlio/vernemq) ⭐ 3,659 | 🐛 184 | 🌐 Erlang | 📅 2026-11-23 - 基于Erlang/OTP的分布式MQTT消息服务器
+* [MongooseIM](https://github.com/esl/MongooseIM) ⭐ 1,758 | 🐛 40 | 🌐 Erlang | 📅 2026-11-23 - 高效的分布式XMPP服务器,ejabberd的优化版本
 
 ## 开发工具
 
 *开发工具*
 
-* [intellij-erlang](https://github.com/ignatov/intellij-erlang) ⭐ 752 | 🐛 247 | 🌐 Java | 📅 2026-11-23 - intellij插件.
+* [intellij-erlang](https://github.com/ignatov/intellij-erlang) ⭐ 752 | 🐛 236 | 🌐 Java | 📅 2026-11-24 - intellij插件.
 * [distel](https://github.com/massemanet/distel) ⭐ 324 | 🐛 19 | 🌐 Emacs Lisp | 📅 2022-11-11 - emacs,erlang IDE.
 * [vimerl](https://github.com/jimenezrick/vimerl) ⭐ 302 | 🐛 7 | 🌐 Erlang | 📅 2015-09-08 - 编写erlang的vim插件.
 
@@ -165,4 +165,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
